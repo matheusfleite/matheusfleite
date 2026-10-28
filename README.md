@@ -4,7 +4,7 @@
 
 ## Currently
 - 📦 Building a Python tool that organizes messy folders automatically
-- 🌱 Learning Python automation, moving toward data and AI agents
+- 🌱 Learning Python automation, moving toward Data & AI
 
 ## Tech stack
 - **Languages:** Python
