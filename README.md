@@ -7,5 +7,5 @@
 - 🌱 Learning Python automation, moving toward Data & AI
 
 ## Tech stack
-- **Languages:** Python
+- **Languages:** Python, SQL
 - **Tools:** Git, Github, VS Code
